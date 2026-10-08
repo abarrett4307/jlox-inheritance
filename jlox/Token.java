@@ -1,5 +1,6 @@
 //> Scanning token-class
 package jlox;
+
 class Token {
   final TokenType type;
   final String lexeme;
